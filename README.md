@@ -23,7 +23,7 @@ chamar o aplicativo de e-mail padrão do smartphone.
 
 ## 🖼️ Imagens do aplicativo
 
-|  | Menu e envio de pedido|
+| Menu |Envio de pedido|
 |--------------|--------------------|
 | ![Tela do Menu](Imagens/tela-menu.png) | ![Tela envio](Imagens/tela-envio.png) |
 
